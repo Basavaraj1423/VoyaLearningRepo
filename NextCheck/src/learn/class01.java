@@ -3,8 +3,8 @@ package learn;
 public class class01 {
 
 	public static void main(String[] args) {
-		// TODO Auto-generated method stub
-
+		System.out.print("HI");
+		System.out.print("Bye");
 	}
 
 }
